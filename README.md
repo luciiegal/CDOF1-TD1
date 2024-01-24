@@ -11,4 +11,5 @@
 - Game-Of-Life: [https://github.com/LouSarbe/Game_of_Life-Louis_Bessard-CDOF1]
 - BALDERACCHI_Adrien-Quiz_Game: [Adrien Balderacchi](https://github.com/Ariboux/Quiz-Game.git)
 - BALIAN_Mathias-Todolist: [BALIAN_Mathias](https://github.com/mathiasbalian/todolist-mathias_balian-CDOF1)
+- Rémi Peltriaux - QuizzGame : [Remsptx](https://github.com/Remsptx/quizzgame-remi_peltriaux-CDOF1)
 - ASCII Art: [Hector Mell Mariolle](https://github.com/hectormm1234/TD1-Decentralization-Technologies)
